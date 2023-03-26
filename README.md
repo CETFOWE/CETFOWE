@@ -1,4 +1,8 @@
-### Hi there 👋
+Congrats. You've found one of the seven conditions as part of CETFOWE. Here is your condition:
+
+Your image should be in webp format. You will get three task points for completing this condition.
+
+Please DM Cute Mage on Discord once you have received this. 
 
 <!--
 **CETFOWE/CETFOWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
